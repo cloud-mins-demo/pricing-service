@@ -12,19 +12,19 @@ This repository contains a dummy pricing service used to test a GitHub tech stac
 
 ## Tech Stack
 - Frontend
-	- React
+	- React 18.3.1
 - Backend
-	- Node.js
-	- Python
-	- FastAPI
+	- Node.js 22.9.0
+	- Python 3.12.4
+	- FastAPI 0.115.2
 - Database
-	- PostgreSQL
+	- PostgreSQL 16.4
 - DevOps
-	- Docker
-	- AWS
-	- GitHub Actions
+	- Docker 26.1.4
+	- AWS CLI 2.17.40
+	- GitHub Actions v4
 - Testing
-	- Pytest
+	- Pytest 8.3.3
 
 ## Project Structure
 ```text
